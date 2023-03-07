@@ -1,0 +1,2 @@
+Git GUI is a graphical user interface for Git that allows users to
+perform various Git operations using a visual interface.

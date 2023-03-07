@@ -1,0 +1,4 @@
+Git is a popular distributed version control system used for software development. It was created by Linus
+
+Git is commonly used in conjunction with online code hosting services such as GitHub, GitLab, and Bitbucket.
+These platforms provide a central location for storing and sharing code repositories,

@@ -1,0 +1,2 @@
+GUI (Graphical User Interface) client like Git GUI or SourceTree is a type of client for Git, 
+which provides a visual interface for working with Git repositories.
